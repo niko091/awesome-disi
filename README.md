@@ -18,7 +18,6 @@ Italiano | [English](README.en.md)
 - [Internship](#internship)
 - [Programmi di mentoring](#programmi-di-mentoring)
 - [Products](#products)
-- [Viaggi](#viaggi)
 - [Extra](#extra)
 
 ---
@@ -35,7 +34,7 @@ Italiano | [English](README.en.md)
 - [Max Planck](https://www.cis.mpg.de/internships/) - 
 - [Cispa]() - 
 - [Cern(Summer Intership)](https://openlab.cern/cern-openlab-summer-student-programme/) - 
-- [Cern(Short term)]([https://careers.cern/programmes/short-term-internship/](https://careers.cern/programmes/short-term-internship/)) - 
+- [Cern(Short term)](https://careers.cern/programmes/short-term) - 
 - [SPAR](https://sparai.org/) - 
 - [ETH Student Summer Research Fellowship](https://inf.ethz.ch/studies/summer-research-fellowship.html) - 
 
